@@ -1,0 +1,20 @@
+Input graph matrix
+
+0 1 0 1 1 1 
+1 0 1 1 1 1 
+0 1 0 0 1 1 
+1 1 0 0 1 1 
+1 1 1 1 0 1 
+1 1 1 1 1 0 
+
+Min degree spanning tree's matrix: 
+
+Degree: 2
+Time: 67.684
+0 0 0 1 0 1 
+0 0 1 1 0 0 
+0 1 0 0 1 0 
+1 1 0 0 0 0 
+0 0 1 0 0 0 
+1 0 0 0 0 0 
+
